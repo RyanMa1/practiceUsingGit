@@ -1,0 +1,18 @@
+
+<resources>
+<!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light">
+    <!-- Primary theme color of the app (sets background color of app bar) -->
+    <item name="colorPrimary">#ff3377</item>
+    <!-- Background color of buttons in the app -->
+    <item name="colorButtonNormal">#ff3377</item>
+
+</style>
+
+    <style name= "Divider">
+        <item name ="android:layout_width"> match_parent</item>
+        <item name = "android:layout_height">1dp</item>
+
+    </style>
+
+</resources>
